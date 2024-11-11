@@ -1,4 +1,4 @@
-A command line social network.
+# A command line social network.
 
 Server-side implemented in java. Server -side has 2 implementations:
 
